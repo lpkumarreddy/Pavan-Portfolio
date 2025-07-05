@@ -79,7 +79,18 @@ FontAwesome
 Google Fonts
 Bootstrap
 
-## 📄 LICENSE
+
+## 📂 Project Structure
+
+```bash
+📁 CDP/
+├── index.html       # Main application HTML
+├── style.css        # Custom styles for layout and responsiveness
+├── script.js        # Section toggling + date-time logic
+└── assets/          # (optional) Add images, logos, illustrations
+
+
+📄 LICENSE
 
 MIT License
 
@@ -102,15 +113,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN  
 THE SOFTWARE.
-
-## 📂 Project Structure
-
-```bash
-📁 CDP/
-├── index.html       # Main application HTML
-├── style.css        # Custom styles for layout and responsiveness
-├── script.js        # Section toggling + date-time logic
-└── assets/          # (optional) Add images, logos, illustrations
----
-
-
