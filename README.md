@@ -1,3 +1,112 @@
+# 🌐 CDP — Career Development Platform
+
+> A fully responsive and dynamic web platform designed to accelerate your learning in tech — from DSA to Cybersecurity, UI/UX to Full-Stack Web Development.
+
+---
+
+## 🚀 Live Demo
+
+🔗 [Launch the App](https://cdpwebdev.ccbp.tech/)
+
+---
+
+## 📌 Highlights
+
+- 🧠 **Section-Based Navigation**  
+  Navigate between Home, Journey, Dev Galaxy, Practice Grounds, and more — seamlessly on mobile or desktop.
+
+- 🕒 **Live Greeting & Date-Time Display**  
+  JavaScript-powered contextual greetings + real-time clock.
+
+- 🧩 **Courses We Offer**
+  - 📘 DSA Learning Hub  
+  - 🎨 UI/UX Bootcamp  
+  - 🛡️ Cybersecurity & Ethical Hacking  
+  - 🤖 Machine Learning  
+  - 📊 Data Science  
+  - 🌐 Full Stack Web Development  
+
+- 🛠️ **Workshop Modules**  
+  Interactive cards for upcoming events like AWS Workshops — complete with date, status & call to action.
+
+- 💼 **Placement Prep Center**  
+  Curated resources: resumes, cover letters, interview questions, hiring tips — all in one place.
+
+- 👨‍💻 **Practice Zone**  
+  Links to top-tier online compilers, prioritizing productivity and freedom.
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech            | Description                          |
+|-----------------|--------------------------------------|
+| **HTML5**       | Semantic layout and structure        |
+| **CSS3**        | Responsive styling and effects       |
+| **Bootstrap 4** | Grid system and UI components        |
+| **JavaScript**  | Interactive behavior and logic       |
+| **FontAwesome** | Rich icons for visual clarity        |
+| **Google Fonts**| Elegant typography integration       |
+
+---
+
+## 📂 Project Structure
+
+```bash
+📁 CDP/
+├── index.html       # Main application HTML
+├── style.css        # Custom styles for layout and responsiveness
+├── script.js        # Section toggling + date-time logic
+└── assets/          # (optional) Add images, logos, illustrations
+
+
+🧪 How to Run Locally
+bash
+Copy
+Edit
+git clone https://github.com/your-username/CDP.git
+cd CDP
+# Open index.html in your browser
+💡 No build tools or installations required. Just open and go.
+
+🌱 Future Enhancements
+🌙 Dark Mode
+
+👥 User Login & Personal Dashboard
+
+🔔 Notification Center for Workshop Alerts
+
+📈 Progress Tracking System
+
+📲 PWA Support for Offline Access
+
+🤝 Contributing
+Contributions are welcome! Feel free to:
+
+Fork the repo
+
+Create a feature branch
+
+Commit changes
+
+Submit a pull request
+
+📜 License
+Distributed under the MIT License. See below for full license text.
+
+✨ Acknowledgements
+CCBP Academy
+
+FontAwesome
+
+Google Fonts
+
+Bootstrap
+
+Made with 💙 by CDP Contributors
+
+📄 LICENSE
+
 MIT License
 
 Copyright (c) 2025 CDP
