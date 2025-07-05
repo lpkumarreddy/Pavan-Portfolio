@@ -42,10 +42,14 @@ Todos App	Responsive CRUD app for task management	Live
 Country Search App	Real-time flag and country data with filters	Live
 Food Munch	Responsive food order website	Live
 
-## Explore more on my GitHub
+## Explore more on my [GitHub](https://github.com/lpkumarreddy)
 
 ## 📄 Resume
-📥 Download My Resume
+
+You can view or download my resume using the link below:
+
+📥 [Download My Resume](https://drive.google.com/file/d/1rhtm7wZgl-mTSeDlTP5NGRPd5E6q6pFa/view?usp=sharing)
+
 
 ## 📬 Contact Me
 Email: lpavankumarreddy54@gmail.com
