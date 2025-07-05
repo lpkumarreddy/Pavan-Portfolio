@@ -55,12 +55,12 @@ It’s more than a platform — it’s a movement to eliminate confusion, reduce
 
 ---
 
-## 🌱 Future Enhancements
-🌙 Dark Mode 
-👥 User Login & Personal Dashboard
-🔔 Notification Center for Workshop Alerts
-📈 Progress Tracking System
-📲 PWA Support for Offline Access
+**🌱 Future Enhancements**
+-🌙 Dark Mode 
+-👥 User Login & Personal Dashboard
+-🔔 Notification Center for Workshop Alerts
+-📈 Progress Tracking System
+-📲 PWA Support for Offline Access
 
 **🤝 Contributing**
 Contributions are welcome! Feel free to:
