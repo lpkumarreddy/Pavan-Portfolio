@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases who I am, my sk
 
 ## 🔗 Live Demo
 
-🌐 [Visit Portfolio](https://pavansportfolio.ccbp.tech/)
+🌐 [Visit Portfolio](https://pavanlingam-portfolio.vercel.app/)
 
 ---
 
