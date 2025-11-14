@@ -1,81 +1,63 @@
-# 💼 Pavan Lingam's Developer Portfolio
 
-Welcome to my personal portfolio website! This project showcases who I am, my skills, experience, and the various full-stack and front-end projects I’ve built using modern web technologies.
+-----
 
-## 🔗 Live Demo
+# Pavan Lingam - Personal Portfolio Website
 
-🌐 [Visit Portfolio](https://pavanlingam-portfolio.vercel.app/)
+This repository contains the source code for my personal portfolio website. It is a fully responsive, single-page application (SPA) designed to showcase my skills, projects, certifications, and professional experience as a Software Developer and Content Creator.
 
----
+The site is built with a modern, glassmorphism-inspired UI and features dynamic content rendering, a dark/light mode toggle, and animated elements.
 
-## 🧠 Features
-🎨 Responsive Design: Works smoothly across desktop, tablet, and mobile devices.
+## ✨ Features
 
-🌗 Dark Mode Toggle: Switch between light and dark themes.
+  * **Single Page Application (SPA):** All sections load instantly without a page refresh for a smooth, app-like user experience.
+  * **Dark/Light Mode:** A sleek, animated toggle switches the entire site's color palette, with the user's preference saved.
+  * **Responsive Glassmorphism UI:** A modern, transparent card design that is fully responsive and looks great on all devices, from mobile phones to desktops.
+  * **Dynamic Sections:**
+      * **About:** A comprehensive overview, a "Download Resume" link, and a vertical timeline for Education and Experience.
+      * **Projects:** Project cards are dynamically generated from a JavaScript object.
+      * **Certifications:** An image-based gallery of certifications that open in a full-screen modal pop-up when clicked.
+      * **Content Creation:** A dedicated section for the `@filmedby.pavanreddy` brand, featuring animated statistics, a seamless-looping image carousel, and UI simulations.
+      * **Services:** An announcement box for the O2O.agency and a list of offered services.
 
-🔍 Section Navigation: Smooth navigation between About Me, Resume, Projects, and Blogs.
+-----
 
-📄 Downloadable Resume: Option to view/download resume directly.
+## 💻 Tech Stack
 
-📚 Projects Gallery: A visual collection of real-world web apps built by me.
+This project was built from scratch using:
 
-👨‍💼 Experience & Education: Structured sections showcasing my professional timeline.
+  * **HTML5:** For the core structure and content.
+  * **CSS3:** For all custom styling, including glassmorphism, animations, and the responsive layout (using Flexbox and Grid).
+  * **JavaScript (ES6+):** For all interactivity, including the SPA routing, dynamic content rendering (for projects, certs, etc.), modal pop-ups, and theme toggling.
+  * **Bootstrap 4:** Utilized for its grid system and core components (like the modal and navbar).
+  * **Font Awesome:** For icons used throughout the application.
 
-🏆 Certifications & Achievements: Highlights my milestones.
+-----
 
-📫 Social Links: Easily connect via GitHub, LinkedIn, YouTube, and Instagram.
+## 🚀 How to Use
 
-## 🛠️ Tech Stack
-Frontend: HTML5, CSS3, Bootstrap 4, JavaScript
+No build process is required\! This is a static website.
 
-APIs: Integrated REST APIs for apps like Wikipedia Search and Country Info
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/your-repository-name.git
+    ```
+2.  **Navigate to the directory:**
+    ```bash
+    cd your-repository-name
+    ```
+3.  **Open the file:**
+    Open the `index.html` file in your favorite web browser.
 
-UI Enhancements: FontAwesome Icons, Responsive Grids, Custom Hover Effects
+-----
 
-Deployment: Hosted on CCBP Tech platform
+## 👨‍💻 Author
 
-## 🚀 Highlighted Projects
-Project	Description	Live Demo
-Speed Typing App	Measures typing speed & accuracy using random quotes	Live
-Wikipedia Search App	Dynamic search with real-time API results	Live
-Todos App	Responsive CRUD app for task management	Live
-Country Search App	Real-time flag and country data with filters	Live
-Food Munch	Responsive food order website	Live
+  * **Pavan Kumar Reddy Lingam**
+  * **LinkedIn:** [linkedin.com/in/pavan-kumar-reddy-lingam](https://linkedin.com/in/pavan-kumar-reddy-lingam)
+  * **GitHub:** [@lpkumarreddy](https://github.com/lpkumarreddy)
 
-## Explore more on my [GitHub](https://github.com/lpkumarreddy)
+-----
 
-## 📄 Resume
+## 📄 License
 
-You can view or download my resume using the link below:
-
-📥 [Download My Resume](https://drive.google.com/file/d/1rhtm7wZgl-mTSeDlTP5NGRPd5E6q6pFa/view?usp=sharing)
-
-
-## 📬 Contact Me
-Email: lpavankumarreddy54@gmail.com
-
-Phone: +91 8074292854
-
-LinkedIn: Pavan Lingam
-
-GitHub: @lpkumarreddy
-
-## 📝 License
-This project is open source and free to use. Feel free to fork or customize it for your own portfolio.
-
-## 🙌 Acknowledgements
-Special thanks to NxtWave for training and mentorship.
-
-Icons by FontAwesome
-
-Deployed with 💙 on CCBP
-
-## 📂 Project Structure
-
-This is a static portfolio built using HTML, CSS, JavaScript, and Bootstrap.
-
-```bash
-.
-├── index.html       # Main HTML structure
-├── style.css        # Custom styles and theming
-└── script.js        # Navigation, dark mode, and section toggle logic
+This project is licensed under the MIT License.
